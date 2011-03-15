@@ -1,0 +1,2 @@
+module ShishasHelper
+end
